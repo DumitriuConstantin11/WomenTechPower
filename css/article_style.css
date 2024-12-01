@@ -1,0 +1,55 @@
+.article-container{
+    background-color: rgb(65, 90, 119);
+    padding: 10px 10px 20px 15px;
+    border-radius: 10px;
+    word-break: break-word;
+
+}
+.art-title{
+    font-size: xxx-large;
+    overflow-wrap: break-word;
+}
+
+.art-content{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.img-fluid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+.art-youtube{
+
+    padding: 20px;
+}
+
+.art-subject{
+
+    background-color: rgb(27, 38, 59) !important;
+    padding: 6px;
+    margin-bottom: 0;
+    margin-left: 3px;
+    border-radius: 5px 5px 0 0;
+}
+
+.art-date {
+    margin: 0;
+}
+#dropdownMenu1 {
+    width: 200px;
+    display: none;
+}
+
+.dropdown-menu.show {
+    display: block;
+}
+.sett_btn{
+    text-decoration: none !important;
+}

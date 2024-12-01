@@ -1,0 +1,75 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(27, 38, 59);
+    color: #333;
+}
+
+.navbar {
+    background-color: rgb(13, 27, 42) !important;
+}
+
+.jumbotron{
+    background-color: rgb(65, 90, 119);
+}
+
+.btn-primary{
+    background-color: rgb(13, 27, 42);
+}
+
+.container {
+    flex: 1;
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.member-card {
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(65, 90, 119);
+}
+
+
+
+.card.member-card:hover{
+    box-shadow: 10px 10px;
+
+
+}
+
+#jb_img{
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+}
+
+.card-img-top{
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.card-head{
+    background-color: rgb(13, 27, 42) !important;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+
+.card-body{
+    padding-top: 5%;
+}

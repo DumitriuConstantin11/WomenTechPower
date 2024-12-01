@@ -1,0 +1,24 @@
+.card-articles{
+    margin-top: 0;
+    border-radius: 12px;
+    box-shadow: 0 1px 20px 0 rgba(64,89,118,0.3);
+    border: none;
+    margin-bottom: 30px;
+    padding: 5px 0 0 10px;
+}
+
+.card-articles:hover{
+    background-color: rgba(64, 89, 118, 0.3);
+}
+
+.card-block {
+    padding: 1.25rem;
+}
+
+.card.user-card-full{
+    border-radius: 12px;
+}
+
+.ppp{
+    border-radius: 12px;
+}
